@@ -1,0 +1,6 @@
+Alert_ID,Alert_Type,Severity,Event_ID,Status,Action
+AL001,Multiple Failed Logins,Medium,4625,Investigating,Review authentication logs
+AL002,Successful Login,Low,4624,Reviewed,Verify user activity
+AL003,Suspicious Process Creation,High,4688,Investigating,Analyze process details
+AL004,Special Privileges Assigned,High,4672,Investigating,Review privileged activity
+AL005,User Logoff,Low,4634,Reviewed,No immediate action
